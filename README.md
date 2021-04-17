@@ -1,1 +1,0 @@
-# jarredbarber.github.io
