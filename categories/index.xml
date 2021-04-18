@@ -10,5 +10,14 @@
         <atom:link href="https://jarredbarber.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>About Me</title>
+      <link>https://jarredbarber.github.io/about/</link>
+      <pubDate>Sat, 17 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://jarredbarber.github.io/about/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
